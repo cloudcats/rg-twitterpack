@@ -1,0 +1,106 @@
+{
+  "settings": {
+    "name": "ReconToolsv2",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "unicore",
+      "title": "Unicore",
+      "styling": {
+        "primaryColor": "#69ff00",
+        "successColor": "#7ac673",
+        "infoColor": "#27aae0",
+        "warningColor": "#faaf40",
+        "dangerColor": "#f97352",
+        "titleFont": "Montserrat",
+        "textFont": "Raleway",
+        "isSquareButtons": false
+      }
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 3,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header22",
+          "_styles": {
+            "i": {
+              "color": "#26ff00 !important"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header22-0",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "iconsColor": "#26ff00",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#222",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showIcons": true,
+            "icon1": "fa-area-chart",
+            "showTitles": true,
+            "showText": true,
+            "icon2": "fa-camera",
+            "icon3": "fa-bolt",
+            "showMedia": true,
+            "icon4": "fa-at",
+            "icon5": "fa-link",
+            "icon6": "fa-bank"
+          },
+          "title1": "Twitter Trending Hashtags Finden",
+          "text1": "<span style=\"font-size: 14px; letter-spacing: 0.5px; background-color: inherit;\"><a href=\"https://trendingdeutschland.com/\" target=\"_blank\">https://trendingdeutschland.com/</a></span><br><a href=\"https://trends24.in/germany/\" target=\"_blank\">https://trends24.in/germany/</a><br>",
+          "title2": "Screenshot Hilfswerkzeug",
+          "text2": "<a href=\"https://getsharex.com/\" target=\"_blank\">https://getsharex.com/</a>",
+          "title3": "Meist Geteilte Tweets Pro Hashtag",
+          "text3": "<a href=\"https://app.buzzsumo.com/research/most-shared\">https://app.buzzsumo.com/research/</a><br><a href=\"https://app.buzzsumo.com/research/most-shared\">most-shared</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/222-1400x2800.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Temporäre Email Provider",
+          "text4": "<a href=\"https://tempr.email/\" target=\"_blank\">https://tempr.email/</a><br><a href=\"http://www.fakemailgenerator.com\" target=\"_blank\">http://www.fakemailgenerator.com</a><br>",
+          "title5": "Follower Aufbauen",
+          "text5": "<a href=\"http://addmefast.com\" target=\"_blank\">http://addmefast.com</a>",
+          "title6": "Inhalte Archivieren",
+          "text6": "<a href=\"http://archive.is/\" target=\"_blank\">http://archive.is/</a><br><a href=\"https://archive.org/\" target=\"_blank\">https://archive.org/</a><br>"
+        }
+      ]
+    }
+  }
+}
